@@ -17,4 +17,4 @@ INSERT INTO pet (id, name, breed, age, dead)
 	VALUES (3, "Gabby", "Cat", 3, 0);
 	
 INSERT INTO pet (id, name, breed, age, dead)
-	VALUES (4, "Babu", "Cat", 2, 0);
+	VALUES (4, "Baby", "Cat", 2, 0);
